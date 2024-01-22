@@ -1,0 +1,9 @@
+
+
+
+# Backup types
+*.swp
+*~
+
+# OS stuff
+.DS_Store*
