@@ -1,0 +1,27 @@
+
+* {
+    color: #c0caf5;
+    background-color: #24283b;
+    
+}
+
+p {
+    color:#e0af68;
+}
+
+a {
+    color: #bb9af7;
+}
+
+.dog-image-holder {
+    display: flex;
+    justify-content: center;
+}
+
+.dog-image {
+    height: 40vh;
+}
+
+h1 {
+    text-align: center;
+}
